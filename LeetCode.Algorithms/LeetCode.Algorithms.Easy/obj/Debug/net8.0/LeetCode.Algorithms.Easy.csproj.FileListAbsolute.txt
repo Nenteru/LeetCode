@@ -1,0 +1,11 @@
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\bin\Debug\net8.0\LeetCode.Algorithms.Easy.deps.json
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\bin\Debug\net8.0\LeetCode.Algorithms.Easy.dll
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\bin\Debug\net8.0\LeetCode.Algorithms.Easy.pdb
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\obj\Debug\net8.0\LeetCode.Algorithms.Easy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\obj\Debug\net8.0\LeetCode.Algorithms.Easy.AssemblyInfoInputs.cache
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\obj\Debug\net8.0\LeetCode.Algorithms.Easy.AssemblyInfo.cs
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\obj\Debug\net8.0\LeetCode.Algorithms.Easy.csproj.CoreCompileInputs.cache
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\obj\Debug\net8.0\LeetCode.Algorithms.Easy.dll
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\obj\Debug\net8.0\refint\LeetCode.Algorithms.Easy.dll
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\obj\Debug\net8.0\LeetCode.Algorithms.Easy.pdb
+D:\Programming\cshurp\Projects\LeetCode\LeetCode.Algorithms\LeetCode.Algorithms.Easy\obj\Debug\net8.0\ref\LeetCode.Algorithms.Easy.dll
